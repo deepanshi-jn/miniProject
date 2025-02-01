@@ -1,0 +1,12 @@
+users post likh payenge
+
+users create krne h
+login and register
+logout
+
+post creation
+post like
+post delete
+
+
+multer=>use to upload send file images type things
